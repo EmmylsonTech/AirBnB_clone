@@ -1,4 +1,3 @@
-Airbnb logo
 AirBnB clone is a team of two project to clone AirBnB website
 
 The Project will start with console interpreter to perform some operations that include;
@@ -38,6 +37,7 @@ DIRECTORIES	CONTENT
 models	contains BaseModel class and all other class that inherits from it
 our tests	contains the main.py files that were used to test the codes
 tests	contains the unittest test files
+
 CONTRIBUTORS
 Twitter: emmylson_P
 Emmanuel
